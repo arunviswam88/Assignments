@@ -1,0 +1,11 @@
+.footer_component {
+    background-color: lightblue;
+    height: 80px;
+    width: 100%;
+    float: right;
+    text-align: center;
+    padding-top: 120px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    border: 3px solid grey;
+}
